@@ -1,0 +1,47 @@
+
+.nav .navbar-brand .logo img {
+    max-width: 50px;
+}
+
+.navbar .form-inline .form-group a {
+    padding: 0 20px;
+}
+
+.container .row .side-bar .side-bar-item .side-bar-item-list {
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.container .row .side-bar .side-bar-item .side-bar-item-list .side-bar-nav-item a {
+    color: #000000;
+}
+
+
+.content .news-list-item {
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.content .news-list-item .title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.content .news-list-item .title .info {
+    font-size: 5px;
+    color: #bebebe;
+}
+
+.content .news-list-item img {
+    display: block;
+    max-width: 100%;
+    border-radius: 3px;
+}
+
+.advertising .card .card-body .item .iteminline {
+    margin-bottom: 0;
+}
+
+.advertising .card .card-body .item .item-footer {
+    margin-bottom: 5px;
+}
