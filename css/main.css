@@ -1,3 +1,6 @@
+a:hover {
+    text-decoration: none;
+}
 
 .nav .navbar-brand .logo img {
     max-width: 50px;
@@ -8,7 +11,7 @@
 }
 
 .container .row .side-bar .side-bar-item .side-bar-item-list {
-    margin-top: 50px;
+    margin-top: 15px;
     border-radius: 5px;
 }
 
@@ -18,13 +21,18 @@
 
 
 .content .news-list-item {
-    margin-top: 30px;
-    padding: 10px;
+    display: block;
+    padding: 15px 10px;
 }
 
 .content .news-list-item .title {
+    color: #000000;
     font-size: 18px;
     font-weight: bold;
+}
+
+.content .news-list-item .title:hover {
+    color: #337ab7;
 }
 
 .content .news-list-item .title .info {
@@ -37,6 +45,12 @@
     max-width: 100%;
     border-radius: 3px;
 }
+
+
+.right-bar {
+    margin-top: 15px;
+}
+
 
 .advertising .card .card-body .item .iteminline {
     margin-bottom: 0;
