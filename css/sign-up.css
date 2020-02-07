@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    background-size: 100% auto;
+}
+
+.container {
+    padding: 250px;
+    text-align: center;
+}
+
+.container .title {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.container .item {
+    display: block;
+    padding: 5px;
+    border: none;
+}
+
+.container .login-btn {
+    margin: 10px;
+    border-radius: 6px;
+}
